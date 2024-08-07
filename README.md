@@ -5,7 +5,7 @@ This project analyzes sales data to uncover trends and insights. The analysis in
 
 ## Files
 - `sales_data_analysis.ipynb`: Jupyter Notebook with the analysis.
-- `superstore_sales.csv`: Dataset used for analysis.
+- `superstore_sales - Sheet1.csv`: Dataset used for analysis.
 
 ## How to Run
 1. Ensure you have Python and required libraries installed.
